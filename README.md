@@ -1,6 +1,7 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 [<img src="https://github.com/bernardoenock/portifolio/blob/main/src/assets/img/pixel-night.gif?raw=true" width="1000px" height="300px" />](https://www.behance.net/gallery/92880429/ROG-Wallpaper-Design)
+Autor da pixel art -> Pixel Jeff
 
 # Oi, eu sou Enock! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
