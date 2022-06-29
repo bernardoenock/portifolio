@@ -26,5 +26,6 @@ export const ContactsContainer = styled.div`
   a {
     text-decoration: none;
     color: white;
+    margin-left: 1.5%;
   }
 `;

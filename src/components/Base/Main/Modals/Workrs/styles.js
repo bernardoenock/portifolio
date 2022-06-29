@@ -17,7 +17,7 @@ export const BoxContainer = styled.div`
   margin: 6% 0% 6% 3%;
   transform: translate(-50% -50%);
   width: 95%;
-  height: 85%;
+  height: 650px;
   background-color: #03000a;
   border: 4px solid #ffffff;
   box-shadow: 24px;
@@ -26,6 +26,7 @@ export const BoxContainer = styled.div`
 
   @media only screen and (min-width: 820px) {
     width: 60%;
+    height: 85%;
     margin: 6% 0% 6% 25%;
     ul {
       flex-direction: row;
