@@ -84,10 +84,10 @@ export default function TransitionsModal() {
                 <p>
                   Atualmente estudo programação, estou finalizando meu curso de
                   Full Stack na Kenzie Academy, onde a paixão por programação
-                  começou, pretendo me especializar em IA, estudar tecnologias
-                  úteis e ágeis, participar de projetos, trabalhar em empresas
-                  de tecnologia e fazer de tudo que estiver ao meu alcance para
-                  ajudar de alguma forma, esse mundo...
+                  começou, no futuro irei me especializar em IA, estudar
+                  tecnologias úteis e ágeis, participar de projetos, trabalhar
+                  em empresas de tecnologia e fazer de tudo que estiver ao meu
+                  alcance para ajudar de alguma forma, esse mundo...
                 </p>
               </TxtContainerB>
               <Conquistas>
