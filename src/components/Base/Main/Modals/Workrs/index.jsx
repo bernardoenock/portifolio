@@ -40,16 +40,15 @@ export default function TransitionsModal() {
           <BoxContainer>
             <Container>
               <img alt="Computador pixel" src={iconPC} />
-              <h1>FASE 1 - Open To Work</h1>
+              <h1>O que ando fazendo:</h1>
               <AllQuestContainer>
                 <QuestContainer>
                   <p>
                     <a
-                      href="https://bvr.li/clique/MR703081JNCO"
+                      href="https://www.youtube.com/channel/UCKlFVP-AwhYlGvP0VXdtR6w"
                       target="_blank"
                     >
-                      -> Trabalhando como coach, auxiliando alunos na Kenzie
-                      Acadey Brasil, onde tambem estudo.
+                      -> Compartilhando trajetoria de carreira.
                     </a>
                   </p>
                 </QuestContainer>
@@ -66,35 +65,18 @@ export default function TransitionsModal() {
                 </QuestContainer>
                 <QuestContainer>
                   <p>
-                    <a
-                      href="https://www.instagram.com/bernardoenock/"
-                      target="_blank"
-                    >
-                      -> Tempo livre, produzindo conteúdos digitais e
-                      trabalhando na fase 2 do portfólio.
-                    </a>
-                  </p>
-                </QuestContainer>
-
-                <QuestContainer>
-                  <p>
-                    <a
-                      href="https://www.instagram.com/eutofilmando/"
-                      target="_blank"
-                    >
-                      -> Sócio do @eutofilmando.
+                    <a href="https://github.com/bernardoenock" target="_blank">
+                      -> Reformando projetos e portifolio
                     </a>
                   </p>
                 </QuestContainer>
               </AllQuestContainer>
               <WppContainer>
-                <DownloadIcon sx={{ fontSize: 30 }} />
                 <a
-                  href="src/assets/curriculo/curriculo.pdf"
-                  download="curriculo.pdf"
+                  href="https://www.canva.com/design/DAE_NoV_KBg/3CrZFA1q-CAEnnpKA6329A/view?website#1"
                   target="_blank"
                 >
-                  <span>Baixar Currículo</span>
+                  <span>Visualizar Currículo</span>
                 </a>
               </WppContainer>
             </Container>

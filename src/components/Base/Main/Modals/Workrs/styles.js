@@ -99,12 +99,16 @@ export const WppContainer = styled.div`
   width: 300px;
   margin: 7% 0% 0% 0%;
   span {
-    padding-left: 6%;
     width: 100%;
   }
 
   a {
     text-decoration: none;
     color: white;
+  }
+
+  :hover {
+    border: 2px solid #fff;
+    border-radius: 50px;
   }
 `;

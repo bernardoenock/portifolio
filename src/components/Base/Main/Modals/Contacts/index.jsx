@@ -83,11 +83,8 @@ export default function TransitionsModal() {
 
               <ContactsContainer>
                 <InstagramIcon />
-                <a
-                  href="https://www.instagram.com/bernardoenock/"
-                  target="_blank"
-                >
-                  <p>bernardoenock</p>
+                <a href="https://www.instagram.com/enock.dev/" target="_blank">
+                  <p>enock.dev</p>
                 </a>
               </ContactsContainer>
             </Container>

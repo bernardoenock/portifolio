@@ -1,15 +1,10 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
-[<img src="https://github.com/bernardoenock/portifolio/blob/main/src/assets/img/pixel-night.gif?raw=true" width="1000px" height="300px" />](https://www.behance.net/gallery/92880429/ROG-Wallpaper-Design)
--> Pixel Jeff
-
 # Oi, eu sou Enock! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 Formado em informática básica no ensino médio, amante da tecnologia, produtor digital e artista!.
 
 ## &#x270d; About me
 
-Atualmente estudo programação, estou finalizando meu curso de Full Stack na Kenzie Academy, onde a paixão por programação começou, pretendo me especializar em IA, estudar tecnologias úteis e ágeis, participar de projetos, trabalhar em empresas de tecnologia e fazer de tudo que estiver ao meu alcance para ajudar de alguma forma, a nossa espécie, evoluir!
+Atualmente finalizei meu curso de Full Stack na Kenzie Academy, ando compartilhando minha trajetoria de carreira, estudando tecnologias úteis e ágeis, participando de projetos, buscando trabalhar em empresas de tecnologia e fazer de tudo que estiver ao meu alcance para ser um bom programador.
 
 ## 🔧 Technologies & Tools
 
