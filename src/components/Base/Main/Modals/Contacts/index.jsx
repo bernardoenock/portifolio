@@ -65,13 +65,6 @@ export default function TransitionsModal() {
               </ContactsContainer>
 
               <ContactsContainer>
-                <WhatsAppIcon />
-                <a href="https://wa.me/5531997781757?text=Oi" target="_blank">
-                  <p>(31) 99778-1757</p>
-                </a>
-              </ContactsContainer>
-
-              <ContactsContainer>
                 <LinkedInIcon />
                 <a
                   href="https://www.linkedin.com/in/bernardoenock/"

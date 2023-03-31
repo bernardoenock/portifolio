@@ -55,11 +55,10 @@ export default function TransitionsModal() {
                 <QuestContainer>
                   <p>
                     <a
-                      href="https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard"
+                      href="https://climatempo.com/"
                       target="_blank"
                     >
-                      -> Cursando CS50 da fundação estudar, curso livre de
-                      ciências da computação de Harvard.
+                      -> Trabalhando na Climatempo
                     </a>
                   </p>
                 </QuestContainer>
