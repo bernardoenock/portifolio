@@ -55,10 +55,10 @@ export default function TransitionsModal() {
                 <QuestContainer>
                   <p>
                     <a
-                      href="https://climatempo.com/"
+                      href="https://www.linkedin.com/in/bernardoenock"
                       target="_blank"
                     >
-                      -> Trabalhando na Climatempo
+                      -> Trabalhando como freelancer e procurando uma vaga full stack
                     </a>
                   </p>
                 </QuestContainer>
@@ -72,7 +72,7 @@ export default function TransitionsModal() {
               </AllQuestContainer>
               <WppContainer>
                 <a
-                  href="https://www.canva.com/design/DAE_NoV_KBg/3CrZFA1q-CAEnnpKA6329A/view?website#1"
+                  href="https://www.linkedin.com/in/bernardoenock"
                   target="_blank"
                 >
                   <span>Visualizar Currículo</span>

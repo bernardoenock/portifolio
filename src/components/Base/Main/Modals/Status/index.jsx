@@ -60,33 +60,21 @@ export default function TransitionsModal() {
                 <TxtContainer>
                   <h3>SOBRE MIM</h3>
                   <p>Oi, eu sou Enock!</p>
-                  <p>
-                    Formado em informática básica no ensino médio, amante da
-                    tecnologia, produtor digital e artista!
-                  </p>
                 </TxtContainer>
               </TxtContainerImg>
 
               <TxtContainerB>
                 <p>
-                  Vejo a vida como um "jogo" e busco encarar as fases desse jogo
-                  da melhor forma e tentando fazer a diferença.
+                Com meu café, minhas sopas de letrinhas e com minha paixão incansável pela ciência, 
+                encontro minha motivação em desvendar desafios complexos no digital e na vida. 
+                Sou um entusiasta dedicado ao estudo contínuo, movido pela emoção de criar, planejar e concretizar ideias inovadoras. 
                 </p>
                 <p>
-                  Nesse jogo tenho apenas 1 vida, acertando ou errando, o meu
-                  objetivo principal é passar pelos obstáculos e chegar cada vez
-                  mais longe.
-                </p>
-                <p>
-                  Resolver problemas é o que me move. Amo criar, planejar,
+                  Resolver problemas é minha missão, e transformá-los em soluções é minha maior recompensa. Amo criar, planejar,
                   resolver e fazer acontecer.
                 </p>
                 <p>
-                  Atualmente finalizei meu curso de Full Stack na Kenzie
-                  Academy, ando compartilhando minha trajetoria de carreira,
-                  estudando tecnologias úteis e ágeis, participando de projetos,
-                  buscando trabalhar em empresas de tecnologia e fazer de tudo
-                  que estiver ao meu alcance para ser um bom programador.
+                Habilidades em Design System, JavaScript, CSS, React, Next, TDD, Node, Docker, Python, noSQL, graphQL,  PHP,  GitFlow,  inglês intermediário e espanhol básico.
                 </p>
               </TxtContainerB>
               <Conquistas>
