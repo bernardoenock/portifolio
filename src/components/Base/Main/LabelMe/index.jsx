@@ -16,7 +16,7 @@ export default function LabelMe() {
       ></Avatar>
       <ContainerLabelMeTxt>
         <h3>Bernardo Enock</h3>
-        <p>Com meu café ☕️, minhas sopas de letrinhas🥣 e com minha paixão incansável pela ciência🧩</p>
+        <p>Café ☕️, sopas de letrinhas 👨‍💻 e Ciência 🧩</p>
         <p></p>
       </ContainerLabelMeTxt>
     </Container>
